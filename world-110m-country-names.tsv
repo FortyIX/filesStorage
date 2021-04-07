@@ -1,175 +1,175 @@
-id	name
-4	Afghanistan
-8	Albania
-12	Algeria
-24	Angola
-10	Antarctica
-32	Argentina
-51	Armenia
-36	Australia
-40	Austria
-31	Azerbaijan
-44	Bahamas
-50	Bangladesh
-112	Belarus
-56	Belgium
-84	Belize
-204	Benin
-64	Bhutan
-68	Bolivia
-70	Bosnia_and_Herzegovina
-72	Botswana
-76	Brazil
-96	Brunei Darussalam
-100	Bulgaria
-854	Burkina Faso
-108	Burundi
-116	Cambodia
-120	Cameroon
-124	Canada
-140	Central African Republic
-148	Chad
-152	Chile
-156	China
-170	Colombia
-178	Congo
-180	Congo, the Democratic Republic of the
-188	Costa Rica
-384	Coted_Ivoire
-191	Croatia
-192	Cuba
-196	Cyprus
-203	Czech Republic
-208	Denmark
-262	Djibouti
-214	Dominican Republic
-218	Ecuador
-818	Egypt
-222	El Salvador
-226	Equatorial Guinea
-232	Eritrea
-233	Estonia
-231	Ethiopia
-238	Falkland Islands (Malvinas)
-242	Fiji
-246	Finland
-250	France
-260	French Southern Territories
-266	Gabon
-270	Gambia
-268	Georgia
-276	Germany
-288	Ghana
-300	Greece
-304	Greenland
-320	Guatemala
-324	Guinea
-624	Guinea-Bissau
-328	Guyana
-332	Haiti
-340	Honduras
-348	Hungary
-352	Iceland
-356	India
-360	Indonesia
-364	Iran, Islamic Republic of
-368	Iraq
-372	Ireland
-376	Israel
-380	Italy
-388	Jamaica
-392	Japan
-400	Jordan
-398	Kazakhstan
-404	Kenya
-408	North Korea
-410	South Korea
-414	Kuwait
-417	Kyrgyzstan
-418	Laos
-428	Latvia
-422	Lebanon
-426	Lesotho
-430	Liberia
-434	Libya
-440	Lithuania
-442	Luxembourg
-807	North_Macedonia
-450	Madagascar
-454	Malawi
-458	Malaysia
-466	Mali
-478	Mauritania
-484	Mexico
-498	Moldova, Republic of
-496	Mongolia
-499	Montenegro
-504	Morocco
-508	Mozambique
-104	Myanmar
-516	Namibia
-524	Nepal
-528	Netherlands
-540	New Caledonia
-554	New Zealand
-558	Nicaragua
-562	Niger
-566	Nigeria
-578	Norway
-512	Oman
-586	Pakistan
+id	name  abbr
+4	Afghanistan AF
+8	Albania AL
+12	Algeria DZ
+24	Angola  AO
+10	Antarctica AQ
+32	Argentina AR
+51	Armenia AM
+36	Australia AU
+40	Austria AT
+31	Azerbaijan AZ
+44	Bahamas BS
+50	Bangladesh BD
+112	Belarus BY
+56	Belgium BE
+84	Belize BZ
+204	Benin BJ
+64	Bhutan BT
+68	Bolivia, Plurinational State of BO
+70	Bosnia and Herzegovina BA
+72	Botswana BW
+76	Brazil BR
+96	Brunei Darussalam BN
+100	Bulgaria BG
+854	Burkina Faso BF
+108	Burundi BI
+116	Cambodia KH
+120	Cameroon CM
+124	Canada CA
+140	Central African Republic CF
+148	Chad TD
+152	Chile CL
+156	China CN
+170	Colombia CO
+178	Congo CG
+180	Congo, the Democratic Republic of the CD
+188	Costa Rica CR
+384	Cote d'Ivoire CI 
+191	Croatia HR 
+192	Cuba CU
+196	Cyprus CY
+203	Czech Republic CZ
+208	Denmark DK
+262	Djibouti DJ
+214	Dominican Republic DO 
+218	Ecuador EC
+818	Egypt EG
+222	El Salvador SV
+226	Equatorial Guinea GQ
+232	Eritrea ER
+233	Estonia EE
+231	Ethiopia ET
+238	Falkland Islands (Malvinas) FK
+242	Fiji FJ
+246	Finland FI
+250	France FR
+260	French Southern Territories TF
+266	Gabon GA
+270	Gambia GM
+268	Georgia GE
+276	Germany DE
+288	Ghana GH
+300	Greece GR
+304	Greenland GL
+320	Guatemala GT
+324	Guinea GN
+624	Guinea-Bissau GW
+328	Guyana GY
+332	Haiti HT
+340	Honduras HN
+348	Hungary HU
+352	Iceland IS
+356	India IN
+360	Indonesia ID
+364	Iran, Islamic Republic of IR
+368	Iraq IQ
+372	Ireland IE
+376	Israel IL
+380	Italy IT
+388	Jamaica JM
+392	Japan JP
+400	Jordan JO
+398	Kazakhstan KZ
+404	Kenya KE
+408	Korea, Democratic People's Republic of KP
+410	Korea, Republic KR
+414	Kuwait kW
+417	Kyrgyzstan KG
+418	Lao People's Democratic Republic LA
+428	Latvia LV
+422	Lebanon LB
+426	Lesotho LS  
+430	Liberia LR 
+434	Libya LY
+440	Lithuania LT
+442	Luxembourg LU
+807	North Macedonia MK
+450	Madagascar MG
+454	Malawi MW
+458	Malaysia MY
+466	Mali ML
+478	Mauritania MR
+484	Mexico MX
+498	Moldova, Republic of MD
+496	Mongolia MN
+499	Montenegro ME
+504	Morocco MA
+508	Mozambique MZ
+104	Myanmar MM
+516	Namibia NA
+524	Nepal NP
+528	Netherlands NL
+540	New Caledonia NC
+554	New Zealand NZ
+558	Nicaragua NI
+562	Niger NE
+566	Nigeria NG
+578	Norway NO
+512	Oman OM
+586	Pakistan PK
 275	Palestinian Territory, Occupied
-591	Panama
-598	Papua New Guinea
-600	Paraguay
-604	Peru
-608	Philippines
-616	Poland
-620	Portugal
-630	Puerto Rico
-634	Qatar
-642	Romania
-643	Russian Federation
-646	Rwanda
-682	Saudi Arabia
-686	Senegal
-688	Serbia
-694	Sierra Leone
-703	Slovakia
-705	Slovenia
-90	Solomon Islands
-706	Somalia
-710	South Africa
-728	South Sudan
-724	Spain
-144	Sri Lanka
-729	Sudan
-740	Suriname
-748	Swaziland
-752	Sweden
-756	Switzerland
-760	Syrian Arab Republic
-158	Taiwan, Province of China
-762	Tajikistan
-834	United_Republic_of_Tanzania
-764	Thailand
-626	Timor-Leste
-768	Togo
-780	Trinidad and Tobago
-788	Tunisia
-792	Turkey
-795	Turkmenistan
-800	Uganda
-804	Ukraine
-784	United Arab Emirates
-826	United Kingdom
-840	United_States_of_America
-858	Uruguay
-860	Uzbekistan
-548	Vanuatu
-862	Venezuela, Bolivarian Republic of
-704	Vietnam
-732	Western Sahara
-887	Yemen
-894	Zambia
-716	Zimbabwe
+591	Panama PA
+598	Papua New Guinea PG
+600	Paraguay PY
+604	Peru PE
+608	Philippines PH
+616	Poland PL
+620	Portugal PT
+630	Puerto Rico PR
+634	Qatar QA
+642	Romania RO
+643	Russian Federation RU
+646	Rwanda RW
+682	Saudi Arabia SA
+686	Senegal SN
+688	Serbia RS
+694	Sierra Leone SL
+703	Slovakia SK
+705	Slovenia SI
+90	Solomon Islands SB
+706	Somalia SO
+710	South Africa ZA
+728	South Sudan SS
+724	Spain ES
+144	Sri Lanka LK
+729	Sudan SD
+740	Suriname SR
+748	Swaziland SZ
+752	Sweden SE
+756	Switzerland CH
+760	Syrian Arab Republic SY
+158	Taiwan, Province of China TW
+762	Tajikistan TJ
+834	Tanzania, United Republic of TZ
+764	Thailand TH
+626	Timor-Leste TL
+768	Togo TG
+780	Trinidad and Tobago TT
+788	Tunisia TN
+792	Turkey TR
+795	Turkmenistan TM
+800	Uganda UG
+804	Ukraine UA
+784	United Arab Emirates AE
+826	United Kingdom GB
+840	United States of America US
+858	Uruguay UY
+860	Uzbekistan UZ
+548	Vanuatu VU
+862	Venezuela, Bolivarian Republic of VE
+704	Vietnam VN
+732	Western Sahara EH
+887	Yemen YE
+894	Zambia ZM
+716	Zimbabwe ZW
