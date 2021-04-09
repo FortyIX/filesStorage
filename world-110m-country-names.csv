@@ -1,26 +1,26 @@
 id,name,abbr
 004,Afghanistan,AF
-8,	Albania,   AL
-12,	Algeria,   DZ
-24,	Angola  ,  AO
-10,	Antarctica,  AQ
-32,	Argentina ,AR
-51,	Armenia ,AM
-36,	Australia, AU
-40,	Austria ,AT
-31,	Azerbaijan , AZ
-44,	Bahamas ,BS
-50,	Bangladesh , BD
+008,	Albania,   AL
+012,	Algeria,   DZ
+024,	Angola  ,  AO
+010,	Antarctica,  AQ
+032,	Argentina ,AR
+051,	Armenia ,AM
+036,	Australia, AU
+040,	Austria ,AT
+031,	Azerbaijan , AZ
+044,	Bahamas ,BS
+050,	Bangladesh , BD
 112,	Belarus, BY
-56,	Belgium ,BE
-84,	Belize , BZ
+056,	Belgium ,BE
+084,	Belize , BZ
 204,Benin ,BJ
-64,	Bhutan , BT
-68,	Plurinational State of Bolivia , BO
-70,	Bosnia and Herzegovina,  BA
-72,	Botswana , BW
-76,	Brazil , BR
-96,	Brunei Darussalam, BN
+064,	Bhutan , BT
+068,	Plurinational State of Bolivia , BO
+070,	Bosnia and Herzegovina,  BA
+072,	Botswana , BW
+076,	Brazil , BR
+096,	Brunei Darussalam, BN
 100,	Bulgaria,  BG
 854,	Burkina Faso , BF
 108,	Burundi, BI
